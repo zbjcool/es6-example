@@ -19,4 +19,8 @@ import "babel-polyfill";
 
 /** class */
 // import './src/class/constructorType'
-import './src/class/classType'
+// import './src/class/classType
+
+/** singleton */
+import './src/singleton/main'
+import './src/singleton/main-1'
