@@ -1,6 +1,6 @@
 import "babel-polyfill";
 
-import './src/common'
+// import './src/common'
 
 // import "./src/let"
 // import "./src/const"
@@ -14,7 +14,7 @@ import './src/common'
 /** import 导入指定变量 export 输出变量 */
 // import "./src/importExport/import"
 /** 也可以用require */
-import "./src/importExport/require"
+// import "./src/importExport/require"
 // import "./src/importExport/import"
 /** import 导入所有export变量 export 输出变量 */
 // import "./src/importExport/import-all"
@@ -47,3 +47,17 @@ import "./src/importExport/require"
 
 /** module */
 // import './src/module/main';
+
+/** 闭包 */
+// import './src/closure';
+
+/** 动态作用域 */
+// import './src/dynamicScope/dynamicScope'
+
+/** 原型 */
+// import './src/prototype/index.js'
+
+/** this指针 */
+// import './src/this/this'
+// import './src/this/this1'
+// import './src/this/this2'
